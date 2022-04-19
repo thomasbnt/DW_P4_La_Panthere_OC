@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73711f55-0c74-433a-a831-ada4f9e3816f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/agence-la-panthere.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/image-de-presentation.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/agence-la-panthere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/citation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +37,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2819rWQFfEzOieSo3s7UXzARC0C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -43,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650373429387</updated>
       <workItem from="1650373430812" duration="7000" />
-      <workItem from="1650373492340" duration="1250000" />
+      <workItem from="1650373492340" duration="1617000" />
     </task>
     <servers />
   </component>
@@ -60,5 +80,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
