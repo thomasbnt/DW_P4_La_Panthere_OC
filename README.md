@@ -23,6 +23,6 @@
 
 ## Todo
 
-- [ ] Semantic HTML
-- [ ] Images compressées et optimisées
-- [ ] Validé avec le W3C
+- [x] Semantic HTML
+- [x] Images compressées et optimisées
+- [x] Validé avec le W3C
